@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions on #1 Catering Services in Rajahmundry | Kumar&#39;s Catering Services</title>
-    <link>http://examplesite.org/faq/</link>
+    <link>/faq/</link>
     <description>Recent content in Frequently Asked Questions on #1 Catering Services in Rajahmundry | Kumar&#39;s Catering Services</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://examplesite.org/faq/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
